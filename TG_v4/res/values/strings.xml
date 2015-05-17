@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC TG</string>
+    <string name="console_card">Console card</string>
+    <string name="write_a_new_tag">Clique para escrever uma nova tag</string>
+    <string name="msg">texto recebido</string>
+</resources>
